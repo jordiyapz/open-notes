@@ -13,3 +13,5 @@ Algoritma efektif adalah algoritma yang menghasilkan jawaban 		yang benar. Algor
 **3. Bagaimana cara mengukur efisiensi suatu algoritma?**
 
 Efisiensi pada algoritma dibagi dua, yaitu efisiensi ruang dan efisiensi waktu. Efisiensi waktu suatu algoritma diukur sebagai fungsi dari ukuran *input* dengan mengitung berapa kali suatu operasi dasar dieksekusi. Seringnya operasi dasar yang dihitung adalah operasi yang cukup berpengaruh pada *running time*.
+
+> Format indah berkas ini dapat dilihat pada [link](https://github.com/jordiyapz/open-notes/blob/master/Desain%20dan%20Analisis%20Algoritma/tugas1.md) berikut.
