@@ -2,6 +2,12 @@
 
 ## Tugas \#1
 
+```
+Nama  : Jordi Yaputra
+NIM   : 1301180353
+Kelas : IF-42-02
+```
+
 **1. Jelaskan pemahaman anda terkait desain dan analisis algoritma!**
 
 "Teknik desain algoritma adalah suatu pendekatan umum untuk menyelesaikan masalah secara algoritmik yang dapat diaplikasikan kepada beberapa jenis masalah dari area komputasi yang berbeda" *(Anany Levitin, 2003)*. Oleh karena itu, desain dan analisis algoritma membahas mengenai desain suatu algoritma dengan analisa efisiensinya yang meliputi efisiensi waktu dan efisiensi ruang dalam cakupan pembelajaran ilmu komputasi. 
