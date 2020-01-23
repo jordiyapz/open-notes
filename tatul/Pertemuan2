@@ -1,0 +1,39 @@
+# Pertemuan \#2
+
+## *Caption* dan Label
+
+Semua tabel, algoritma, dan grafik harus menggunakan *caption* dan label
+
+**Grafik**, **Flowchart**, dan **Gambar** dianggap sebagai gambar
+
+**Tabel**: label dan *caption* biasanya berada di atas
+
+**Algoritma**: Sebaiknya ada *Input* dan *Output*-nya, Caption dan Label ada di atas
+
+### Perlu Diperhatikan:
+
+* Biasanya grafik termasuk sebagai gambar
+* Label (sebagai identital, berupa nomor) caption (kalimat penjelasan)
+* Label contohnya: **Gambar 1, Gb1, Fig 1, Figure 1**
+* Untuk algoritma berupa nama algoritma.
+* *Caption* bersifat informatif (jelas dan sederhana), versi di bawah lebih baik.
+* Semua gambar, grafik, tabel, dan algoritma *diberi penjelasan lebih lanjut dalam teks*
+* Jangan menganggap pembaca bisa mengerti dengan hanya melihat gambar maupun tabel
+* Untuk makalah atau proposal TA yg memiliki beberapa bab, diberi penomoran yang diawali dengan bab terlebih dahulu. *Contoh:* **Gambar 2.1**
+* Tidak perlu memberi penunjuk, misalnya *di atas*: =="... seperti pada gambar 2 ~~di atas~~"==
+
+### Informatif
+
+> **Catatan:** Jangan memberikan informasi Redundan
+
+#### Diagram
+
+* Perhatikan kualitas tampilan. Sebaiknya dibuat ulang, bukan *copy image*.
+* Selain legenda, dapat juga memberikan penunjuk ke data yang di-*highlight*
+* Dapat men-siasati sumbu untuk memperjelas diagram (contoh: sumbu-x dibuat skala logaritmik)
+> **Catatan:** Perhatikan kejelasan diagram, berikan legenda yang tepat. Hindari grafik yang tidak diperlukan demi kejelasan gambar.
+
+#### Tabel
+
+* Untuk tabel yang membandingkan, data yang di-*highlight* boleh di ***Bold*** atau di beri *Underline*
+* Perhatikan banyak angka dibelakang koma
